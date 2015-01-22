@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/wyuenho/backgrid"
+    "url": "http://github.com/Proxiweb/backgrid.git"
   },
   "dependencies": {
     "backbone": "1.0.0 - 1.1.2",
