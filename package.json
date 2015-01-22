@@ -16,6 +16,9 @@
     "type": "git",
     "url": "http://github.com/wyuenho/backgrid"
   },
+  "dependencies": {
+    "backbone": "1.0.0 - 1.1.2",
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-cli": "~0.1.9",
